@@ -1,7 +1,7 @@
 # Twitter-Bot
 <p align="left">
 
-Twitter-Bot is an automation bot using Tweepy Module with Python. This replaces the use of Twitter API as it is costly and takes much time to get access to. You can use it to post tweets, retweet based on hashtags and like tweets on the homepage or like tweets based on hashtags. 
+Twitter-Bot is an automation bot using Tweepy Module with Python. This replaces the use of Twitter API as it is costly and takes much time to get access to. You can use it to post tweets, like tweets, and retweet and reply based on hashtags.
 
 ## How to Install
 
