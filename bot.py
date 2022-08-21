@@ -5,7 +5,6 @@ auth.set_access_token("YOUR_ACCESS_TOKEN", "YOUR_ACCESS_SECRET")
 api = tweepy.API(auth)
 
 #I will be changing my authorisation keys after demonstration, so I got that part covered.
-
 # Tweet something
 tweetstring = input("Enter the tweet: ")
 tweet = api.update_status(tweetstring)
