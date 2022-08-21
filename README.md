@@ -11,6 +11,8 @@ Twitter-Bot is an automation bot using Tweepy Module with Python. This replaces 
 4. Run ``` pip3 install tweepy ```
 5. And now you can run the example scripts or create your own scripts.  
 6. Apply for elevated access on Twitter playground.
+7. Extract the ```Bearer Token and Access Token and Secret keys``` created with Read, Write, and Direct Messages permissions.
+8.Copy them and paste in the required portion of the code (authentication part)
 
 ## Usage
 - To like tweets on the homepage, run ``` python3 bot.py```
@@ -20,7 +22,6 @@ Twitter-Bot is an automation bot using Tweepy Module with Python. This replaces 
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
-- Script opens browser and nothing happens? Try checking the terminal. It might be asking for credentials.
 - For any other problems, feel free to raise an issue.
 
 ## Contributing
