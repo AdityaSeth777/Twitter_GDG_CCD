@@ -29,7 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Apache License 2.0 © Aditya Seth](https://github.com/AdityaSeth777/Twitter_Bot/blob/main/License)
+[Apache License 2.0 © Aditya Seth](https://github.com/AdityaSeth777/Twitter_GDG_CCD/blob/main/License)
 
 ## What next?
 I will be working on adding feature of finding and following new users. Apart from that I will also add features to perform other tasks on tweets such as sharing on other platforms or messaging someone.
