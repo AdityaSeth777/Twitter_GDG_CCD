@@ -1,7 +1,7 @@
 import tweepy
 
-auth=tweepy.OAuthHandler("Vq4LmJbUwIldoFb1X4OaY7qPa", "ZTJBEgIVgqs5AaMf5jNIgcY4iEMr8XSr0gf5D3ZYIx1I9I10qh")
-auth.set_access_token("1543506499938398210-OOHwGXIiUrKAV6aeSctlpmx06AtNbT", "YiILe6o2HyVln7PBlZEg21CTxElHZdibjeSf2oUYyjiWr")
+auth = tweepy.OAuthHandler("YOU_CONSUMER_KEY", "YOUR_CONSUMER_SECRET")
+auth.set_access_token("YOUR_ACCESS_TOKEN", "YOUR_ACCESS_SECRET")
 api = tweepy.API(auth)
 
 #I will be changing my authorisation keys after demonstration, so I got that part covered.
