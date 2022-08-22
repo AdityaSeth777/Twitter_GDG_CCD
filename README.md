@@ -8,7 +8,7 @@ Twitter-Bot is an automation bot using Tweepy Module with Python. This replaces 
 1. Create a ```python``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/AdityaSeth777/Twitter_Bot.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd Twitter-Bot ``` 
-4. Run ``` pip3 install tweepy ```
+4. Run ``` pip3 install tweepy 3.7```
 5. And now you can run the example scripts or create your own scripts.  
 6. Apply for elevated access on Twitter playground.
 7. Extract the ```Bearer Token and Access Token and Secret keys``` created with Read, Write, and Direct Messages permissions.
